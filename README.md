@@ -198,7 +198,7 @@
 
 <!-- tabs:end -->
 
-## CheatSheet 速查表 &#x1F4DD;
+# CheatSheet 速查表 &#x1F4DD;
 <!-- tabs:start -->
 #### **Python**
 - <u>[PDF下载](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)</u>
