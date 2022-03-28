@@ -31,7 +31,7 @@
 > - **行业相关的文章和博客**
 >
 > *欢迎关注我的**个人博客***：[Coding Kelvin](https://codingkelvin.fun)  
-> *欢迎访问我的**网站导航***：<del>Coding kelvin Nav</del>
+> *欢迎访问我的**实用网站导航***：<del>Coding kelvin Nav</del>（正在维护）
 > 
 > <u>推荐使用Web端访问本站！</u>
 
@@ -338,6 +338,31 @@
 > 若要获得完整的文章列表请访问[Hacker News](https://news.ycombinator.com/)和[Hacker News Weekly](https://hackernewsletter.com/)。
 
 <!-- tabs:start -->
+#### **Week11/2022**
+> [原文传送门](https://mailchi.mp/hackernewsletter/596?e=2fc605e3d3)，以下仅为内容摘要。
+- [<u>My guiding principles after 20 years of programming</u>](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)  
+  编程20年的工程师总结的一些原则
+- [<u>Bionic Reading API</u>](https://bionic-reading.com/)   
+  通过加粗单词的几个字母来提高你的阅读速度，有意思！ 
+- [<u>appwrite</u>](https://github.com/appwrite/appwrite/blob/master/README.md)  
+  一个开源的后端平台，支持Flutter/Vue/Angular/React/iOS/Android/* 等等平台
+- [<u>diagrams</u>](https://www.diagrams.net/)  
+  最好用的开源流程图绘制软件，支持在线使用，支持存储在远端
+- [<u>fzf-command line fuzzy finder</u>](https://github.com/junegunn/fzf?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)  
+  fzf 是一个通用的命令行模糊搜索工具
+- [<u>Smort</u>](https://www.smort.io/)  
+  一个可以让你轻松编辑、注释和分享其他网页文章的在线工具
+- [<u>Please put units in names</u>](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names?utm_source=hackernewsletter&utm_medium=email&utm_term=code)  
+  请在代码中标明单位
+- [<u>设计模式目录</u>](https://refactoringguru.cn/design-patterns/catalog)  
+  用生动的图画来展示不同的设计模式
+- [<u>backofyourhand</u>](https://backofyourhand.com/)  
+  一款以对当地街道了解程度的游戏，真难
+- [<u>cool-retro-term</u>](https://github.com/Swordfish90/cool-retro-term?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)  
+  一款模拟旧阴极显示器的终端仿真软件
+- [<u>Vim Reference Guide</u>](https://leanpub.com/vim_reference_guide)  
+  快来白嫖Vim手册
+
 #### **Week10/2022**
 > [原文传送门](https://mailchi.mp/hackernewsletter/595?e=2fc605e3d3)，以下仅为内容摘要。
 - [<u>Goldilocks Zone Finder</u>](https://lukechampine.com/goldilocks/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)  
