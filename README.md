@@ -288,17 +288,30 @@
 ---
 ## 前端（HTML+CSS+JS）&#x1F3A8;
 
-### MDN文档（Web标准）
+
+<!-- panels:start -->
+<!-- div:left-panel -->
+#### 综合资源
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+<!-- div:right-panel -->
+#### MDN文档（Web标准）
 - [<u>MDN 文档速查</u>](https://developer.mozilla.org/zh-CN/) &#x2B50;&#x2B50;&#x2B50;&#x2B50;&#x2B50;
 - [<u>MDN Web开发教程</u>](https://developer.mozilla.org/zh-CN/docs/Web/Tutorials) 
 - [<u>MDN HTML文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 - [<u>MDN CSS文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 - [<u>MDN JS文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [<u>MDN HTTP文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+<!-- panels:end -->
 
+### HTML&CSS
 <!-- panels:start -->
 <!-- div:left-panel -->
-### 文章资源
+#### 文章资源
 - [<u>5件你不需要JavaScript就可以完成的事</u>](https://lexoral.com/blog/you-dont-need-js/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) &#x2753;&#x2753;
 - [<u></u>]()
 - [<u></u>]()
@@ -307,7 +320,7 @@
 - [<u></u>]()
 - [<u></u>]()
 <!-- div:right-panel -->
-### 视频资源
+#### 视频资源
 - [<u>[油管] HTML Full Course - Build a Website Tutorial 【快速入门】</u>](https://www.youtube.com/watch?v=pQN-pnXPaVg&t=3s) &#x1F680; &#x2B50;&#x2B50;
 - [<u>[油管] CSS - Style Your Website | Tutorial 【快速入门】</u>](https://www.youtube.com/watch?v=WZ2uqGkHoR0&list=PLLAZ4kZ9dFpNO7ScZFr-WTmtcBY3AN1M7) &#x1F680; &#x2B50;&#x2B50;
 - [<u>[油管] Javascript - Programming Language | Tutorial 【快速入门】</u>](https://www.youtube.com/watch?v=_jlPywA4dKs&list=PLLAZ4kZ9dFpPQbcrA-SzALJeFm23tPrAI) &#x1F680; &#x2B50;&#x2B50;
@@ -317,9 +330,33 @@
 
 <!-- panels:end -->
 
+### JavaScript
+<!-- panels:start -->
+<!-- div:left-panel -->
+#### 文章资源
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+<!-- div:right-panel -->
+#### 视频资源
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+- [<u></u>]()
+<!-- panels:end -->
+
+
+
+
 ---
 ### 前端框架
 
+#### CSS框架和组建库
 #### Bootstrap
 - [<u>Bootstrap官方文档</u>](https://getbootstrap.com/docs/5.1/getting-started/introduction/) &#x1F4E6;
 - [<u>[油管] Bootstrap CSS Framework - 完整教程</u>](https://www.youtube.com/watch?v=-qfEOE4vtxE&t=1556s) &#x1F680;&#x1F680; &#x2B50; &#x2B50; &#x2B50;
