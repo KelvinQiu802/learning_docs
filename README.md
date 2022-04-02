@@ -204,35 +204,53 @@
 <!-- tabs:start -->
 #### **Python**
 - <u>[PDF下载](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/mementopython3-english.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=python.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **C**
 - <u>[PDF下载](https://cheatography.com//ashlyn-black/cheat-sheets/c-reference/pdf/)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/ashlyn-black_c-reference.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=c.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **Linux**
 - <u>[PDF下载](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/linux_cheat_sheet_v1.1%20%281%29.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=linux.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **HTML**
 - <u>[PDF下载](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)</u>
 <embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/HTML-Cheatsheet-Skillcrush.pdf" type="" height=800px; width=100%>
 
 #### **CSS**
 - <u>[PDF下载](https://cdn.hostinger.com/tutorials/pdf/CSS-3-Cheatsheet.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/CSS-3-Cheatsheet.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=css.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **JS**
 - <u>[PDF下载](https://duenaslerin.com/iaw/pdfs/javascript-cheat-sheet-v1.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/javascript-cheat-sheet-v1.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=js.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **Tkinter**
 - <u>[PDF下载](https://pdfcoffee.com/tkinter-cheat-sheet-pdf-free.html)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/tkinter%20cheat_compressed.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=tkinter.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **Numpy**
 - <u>[PDF下载](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/Numpy_Python_Cheat_Sheet.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=numpy.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **Matplotlib**
 - <u>[PDF下载](https://github.com/matplotlib/cheatsheets)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/matplotlib%20cheat.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=matplotlib.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 #### **Pandas**
 - <u>[PDF下载](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/Pandas_Cheat_Sheet.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=pandas.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 
 <!-- tabs:end -->
 
