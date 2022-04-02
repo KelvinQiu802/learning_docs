@@ -219,7 +219,9 @@
 </div>
 #### **HTML**
 - <u>[PDF下载](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)</u>
-<embed src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://imgbed.codingkelvin.fun/docs/HTML-Cheatsheet-Skillcrush.pdf" type="" height=800px; width=100%>
+<div>
+    <iframe id="pdf-js-viewer" src="/web/viewer.html?file=html.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
 
 #### **CSS**
 - <u>[PDF下载](https://cdn.hostinger.com/tutorials/pdf/CSS-3-Cheatsheet.pdf)</u>
