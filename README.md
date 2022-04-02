@@ -67,6 +67,8 @@
 - [<u>HelloGitHub 分享 GitHub 上有趣、入门级的开源项目</u>](https://github.com/521xueweihan/HelloGitHub) &#x1F3A2;
 - [<u>Git Command Explorer 命令速查</u>](https://gitexplorer.com/)
 - [<u>Public APIs 大全</u>](https://github.com/public-apis/public-apis)
+- [<u>用Emoji来解释函数式编程</u>](https://ycombinator.chibicode.com/functional-programming-emojis)
+- [<u>FIRST TIMERS ONLY 写给第一次参与开源项目的你</u>](https://www.firsttimersonly.com/)
 - [<u></u>]()
 - [<u></u>]()
 
@@ -291,11 +293,14 @@
 
 <!-- panels:start -->
 <!-- div:left-panel -->
-#### 综合资源
-- [<u></u>]()
-- [<u></u>]()
-- [<u></u>]()
-- [<u></u>]()
+#### 网站资源
+- [<u>【CSS-TRICKS】</u>](https://css-tricks.com/)
+- [<u>【Web Skills】一张图画出你所需要了解的所有前端知识</u>](https://andreasbm.github.io/web-skills/)
+- [<u>【Frontend Mentor】 从易到难做项目</u>](https://www.frontendmentor.io/)
+- [<u>【Frontend Practice】 练习真实的前端项目</u>](https://www.frontendpractice.com/)
+- [<u>【CSS Battle】 发挥想象力，用CSS创造图形</u>](https://cssbattle.dev/)
+- [<u>【Style Stage】 同一个HTML，不同的CSS，学习其他人的CSS风格</u>](https://stylestage.dev/#guidelines)
+- [<u>【Web-Dev-For-Beginners】微软开源的前端项目式课程</u>](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [<u></u>]()
 - [<u></u>]()
 <!-- div:right-panel -->
@@ -305,18 +310,18 @@
 - [<u>MDN HTML文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 - [<u>MDN CSS文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 - [<u>MDN JS文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-- [<u>MDN HTTP文档</u>](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+- [<u>MDN HTTP文档</u>](https://developer.mozilla.org/zh-CN/doxcs/Web/HTTP)
 <!-- panels:end -->
 
 ### HTML&CSS
 <!-- panels:start -->
 <!-- div:left-panel -->
-#### 文章资源
+#### 文章资源 
 - [<u>5件你不需要JavaScript就可以完成的事</u>](https://lexoral.com/blog/you-dont-need-js/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) &#x2753;&#x2753;
-- [<u></u>]()
-- [<u></u>]()
-- [<u></u>]()
-- [<u></u>]()
+- [<u>老大难问题：如何居中一个元素？</u>](https://github.com/ljianshu/Blog/issues/29)
+- [<u>Custom Scrollbars In CSS 自定义滚动条</u>](https://ishadeed.com/article/custom-scrollbars-css/)
+- [<u>HTML Tips 一些小技巧</u>](https://markodenic.com/html-tips/)
+- [<u>CSS Reference 快速查看CSS的所有样式</u>](https://tympanus.net/codrops/css_reference/)
 - [<u></u>]()
 - [<u></u>]()
 <!-- div:right-panel -->
