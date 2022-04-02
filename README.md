@@ -12,10 +12,10 @@
 <h5 style="text-align: center; color: rgb(71, 185, 134); margin-top: 0; margin-bottom: 15px;">最近更新:2022/3/28</h5>
 
 <div style="text-align: center;">
-<a href="https://codingkelvin.fun" class="shield"><img src="https://img.shields.io/badge/Blog-%E5%85%B3%E6%B3%A8%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-green" alt=""></a>
-<a href="https://nav.codingkelvin.fun" class="shield"><img src="https://img.shields.io/badge/Nav-%E7%BD%91%E7%AB%99%E5%AF%BC%E8%88%AA-orange" alt=""></a>
-<a href="https://docs.qq.com/form/page/DR0FLR1RobENqV0RU?_w_tencentdocx_form=1" class="shield"><img src="https://img.shields.io/badge/Contribute-%E7%82%B9%E6%88%91%E6%8A%95%E7%A8%BF-red" alt=""></a>
-<a href="mailto: kelvinqiu802@outlook.com" class="shield"><img src="https://img.shields.io/badge/Email-%E8%81%94%E7%B3%BB%E6%88%91-blue" alt=""></a>
+<a href="https://codingkelvin.fun" class="shield"><img src="shields/blog.svg" alt="blog.svg"></a>
+<a href="https://nav.codingkelvin.fun" class="shield"><img src="shields/nav.svg" alt=""></a>
+<a href="https://docs.qq.com/form/page/DR0FLR1RobENqV0RU?_w_tencentdocx_form=1" class="shield"><img src="shields/contribute.svg" alt=""></a>
+<a href="mailto: kelvinqiu802@outlook.com" class="shield"><img src="shields/email.svg""></a>
 </div>
 
 ?>  **善用 *Control + F*  搜索文档！*Control + D* 收藏本站！**
