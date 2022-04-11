@@ -400,6 +400,26 @@
 > 若要获得完整的文章列表请访问[Hacker News](https://news.ycombinator.com/)和[Hacker News Weekly](https://hackernewsletter.com/)。
 
 <!-- tabs:start -->
+#### **Week12/2022**
+> [原文传送门](https://mailchi.mp/hackernewsletter/597?e=2fc605e3d3)，以下仅为内容摘要。
+- [<u>Blog Search Engine</u>](https://blogsurf.io/)  
+  一个博客搜索引擎
+- [<u>Find a piano</u>](https://pianos.pub/) 
+  可以在线寻找公共钢琴的网站 
+- [<u>oh-heck</u>](https://oh-heck.dev/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)  
+  当你忘记终端命令时，该工具可以帮你通过自然语言生成终端命令
+- [<u>SQL Visualizer</u>](https://animatesql.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=data)  
+  SQL可视化工具
+- [<u>Firefox UI UX history</u>](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history?utm_source=hackernewsletter&utm_medium=email&utm_term=design) 
+  火狐浏览器UI的历史 
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
+- [<u></u>]()  
 #### **Week11/2022**
 > [原文传送门](https://mailchi.mp/hackernewsletter/596?e=2fc605e3d3)，以下仅为内容摘要。
 - [<u>My guiding principles after 20 years of programming</u>](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)  
