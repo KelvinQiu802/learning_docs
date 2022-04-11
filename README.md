@@ -9,7 +9,7 @@
 
 
 <h2 style="text-align: center; color: rgb(71, 185, 134); margin-top:20px;">网站内容持续更新</h2>
-<h5 style="text-align: center; color: rgb(71, 185, 134); margin-top: 0; margin-bottom: 15px;">最近更新:2022/3/28</h5>
+<h5 style="text-align: center; color: rgb(71, 185, 134); margin-top: 0; margin-bottom: 15px;">最近更新:2022/4/11</h5>
 
 <div style="text-align: center;">
 <a href="https://codingkelvin.fun" class="shield"><img src="shields/blog.svg" alt="blog.svg"></a>
@@ -400,6 +400,20 @@
 > 若要获得完整的文章列表请访问[Hacker News](https://news.ycombinator.com/)和[Hacker News Weekly](https://hackernewsletter.com/)。
 
 <!-- tabs:start -->
+#### **Week13/2022**
+> [原文传送门](https://mailchi.mp/hackernewsletter/597?e=2fc605e3d3)，以下仅为内容摘要。
+- [<u>The Next Google</u>](https://dkb.io/post/the-next-google?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)  
+  Kagi是一个侧重于客制化，定制化的搜索引擎
+- [<u>Mataroa Blog</u>](https://mataroa.blog/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)  
+  一个裸奔的博客平台，极简主义
+- [<u>Just a Calendar</u>](https://cal.sharats.me/)  
+  真的就只是一个日历，当作一个练手项目或许不错～
+- [<u>Warp</u>](https://www.warp.dev/?ref=showhn&utm_source=hackernewsletter&utm_medium=email&utm_term=code)  
+  新一代终端工具，基于Rust，已获得巨额投资，主打速度和功能，可以期待一下
+- [<u>Those HTML Attributes You Never Use</u>](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/?utm_source=hackernewsletter&utm_medium=email&utm_term=code)  
+  作者讲述了一些有趣的HTML属性，你可能没有听说过他们，但却非常实用
+- [<u>My free-software photography workflow</u>](https://blog.fidelramos.net/photography/photography-workflow?utm_source=hackernewsletter&utm_medium=email&utm_term=design)  
+  文中作者介绍了它仅仅使用免费软件的摄影工作流
 #### **Week12/2022**
 > [原文传送门](https://mailchi.mp/hackernewsletter/597?e=2fc605e3d3)，以下仅为内容摘要。
 - [<u>Blog Search Engine</u>](https://blogsurf.io/)  
