@@ -315,9 +315,9 @@
 <!-- div:left-panel -->
 #### 网站资源
 - [<u>【CSS-TRICKS】</u>](https://css-tricks.com/)
-- [<u>【Web Skills】一张图画出你所需要了解的所有前端知识</u>](https://andreasbm.github.io/web-skills/)
-- [<u>【Frontend Mentor】 从易到难做项目</u>](https://www.frontendmentor.io/)
-- [<u>【Frontend Practice】 练习真实的前端项目</u>](https://www.frontendpractice.com/)
+- [<u>【Web Skills】一张图画出你所需要了解的所有前端知识</u>](https://andreasbm.github.io/web-skills/) &#x2B50;&#x2B50;
+- [<u>【Frontend Mentor】 从易到难做项目</u>](https://www.frontendmentor.io/) &#x2B50;
+- [<u>【Frontend Practice】 练习真实的前端项目</u>](https://www.frontendpractice.com/) &#x2B50;
 - [<u>【CSS Battle】 发挥想象力，用CSS创造图形</u>](https://cssbattle.dev/)
 - [<u>【Style Stage】 同一个HTML，不同的CSS，学习其他人的CSS风格</u>](https://stylestage.dev/#guidelines)
 - [<u>【Web-Dev-For-Beginners】微软开源的前端项目式课程</u>](https://github.com/microsoft/Web-Dev-For-Beginners)
@@ -341,9 +341,12 @@
 - [<u>老大难问题：如何居中一个元素？</u>](https://github.com/ljianshu/Blog/issues/29)
 - [<u>Custom Scrollbars In CSS 自定义滚动条</u>](https://ishadeed.com/article/custom-scrollbars-css/)
 - [<u>HTML Tips 一些小技巧</u>](https://markodenic.com/html-tips/)
-- [<u>CSS Reference 快速查看CSS的所有样式</u>](https://tympanus.net/codrops/css_reference/)
+- [<u>CSS Reference 快速查看CSS的所有样式</u>](https://tympanus.net/codrops/css_reference/) &#x2B50;
+- [<u>1-Line Layouts 一行代码解决现代CSS布局</u>](https://1linelayouts.glitch.me/)
+- [<u>CSS Tools: Reset CSS【CSS初始化代码】</u>](https://meyerweb.com/eric/tools/css/reset/) &#x2B50;
 - [<u></u>]()
 - [<u></u>]()
+- [<u></u>]() 
 <!-- div:right-panel -->
 #### 视频资源
 - [<u>[油管] HTML Full Course - Build a Website Tutorial 【快速入门】</u>](https://www.youtube.com/watch?v=pQN-pnXPaVg&t=3s) &#x1F680; &#x2B50;&#x2B50;
