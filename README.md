@@ -404,6 +404,29 @@
 > 若要获得完整的文章列表请访问[Hacker News](https://news.ycombinator.com/)和[Hacker News Weekly](https://hackernewsletter.com/)。
 
 <!-- tabs:start -->
+#### **Week15/2022**
+> [原文传送门](https://mailchi.mp/hackernewsletter/599?e=2fc605e3d3)，以下仅为内容摘要。
+- [<u>A list of new(ish) command line tools</u>](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)  
+  作者介绍了一系列新的命令行工具，可以替代一些老旧的命令
+- [<u>The Joy of Small Projects</u>](https://schroer.ca/2022/04/10/the-joy-of-small-projects/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)  
+  做项目的乐趣
+- [<u>Zas Editor</u>](https://www.zeditor.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=code)  
+  一个专注于Go和Rust的文本编辑器
+- [<u>Flying Through Giga Berlin</u>](https://www.youtube.com/watch?v=7-4yOx1CnXE)  
+  穿越机拍摄特斯拉工厂
+- [<u>Weightless Cats - Do Space Cats Land On Their Feet?</u>](https://www.youtube.com/watch?v=O9XtK6R1QAk)  
+  失重中的猫还会脚先落地吗?
+- [<u>How we lost 54k GitHub stars</u>](https://httpie.io/blog/stardust?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)  
+  HTTPie误将仓库设置为private，导致54k歌stars全部丢失
+- [<u>Visualize your day as 144 rectangles</u>](https://rectangles.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)  
+  用144个矩形来展示一天的进度（可以作为小项目玩）
+- [<u>Devbook</u>](https://www.usedevbook.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=cutting_room_floor)  
+  将可实时运行的代码添加到文档中
+- [<u>WeekToDo</u>](https://weektodo.me/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)  
+  免费极简的TodoList
+- [<u>Pinry</u>](https://github.com/pinry/pinry?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)  
+  Pinterest的自托管替代方案
+
 #### **Week13/2022**
 > [原文传送门](https://mailchi.mp/hackernewsletter/597?e=2fc605e3d3)，以下仅为内容摘要。
 - [<u>The Next Google</u>](https://dkb.io/post/the-next-google?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)  
