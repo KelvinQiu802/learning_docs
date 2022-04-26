@@ -9,7 +9,7 @@
 
 
 <h2 style="text-align: center; color: rgb(71, 185, 134); margin-top:20px;">网站内容持续更新</h2>
-<h5 style="text-align: center; color: rgb(71, 185, 134); margin-top: 0; margin-bottom: 15px;">最近更新:2022/4/11</h5>
+<h5 style="text-align: center; color: rgb(71, 185, 134); margin-top: 0; margin-bottom: 15px;">最近更新:2022/4/26</h5>
 
 <div style="text-align: center;">
 <a href="https://codingkelvin.fun" class="shield"><img src="shields/blog.svg" alt="blog.svg"></a>
@@ -363,15 +363,15 @@
 <!-- panels:start -->
 <!-- div:left-panel -->
 #### 文章资源
-- [<u></u>]()
-- [<u></u>]()
+- [<u>现代 JavaScript 教程</u>](https://zh.javascript.info/) &#x2B50;&#x2B50;
+- [<u>如何阅读红宝书？【最佳阅读顺序】</u>](https://www.yuque.com/hugsun/books/intro)
 - [<u></u>]()
 - [<u></u>]()
 - [<u></u>]()
 - [<u></u>]()
 <!-- div:right-panel -->
 #### 视频资源
-- [<u></u>]()
+- [<u>[B站] Pink老师 JavaScript教程</u>](https://www.bilibili.com/video/BV1Sy4y1C7ha?p=1) &#x2B50;&#x2B50;&#x2B50;
 - [<u></u>]()
 - [<u></u>]()
 - [<u></u>]()
