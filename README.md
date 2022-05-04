@@ -365,7 +365,7 @@
 #### 文章资源
 - [<u>现代 JavaScript 教程</u>](https://zh.javascript.info/) &#x2B50;&#x2B50;
 - [<u>如何阅读红宝书？【最佳阅读顺序】</u>](https://www.yuque.com/hugsun/books/intro)
-- [<u></u>]()
+- [<u>ES6 入门教程</u>](https://es6.ruanyifeng.com/)
 - [<u></u>]()
 - [<u></u>]()
 - [<u></u>]()
