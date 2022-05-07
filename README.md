@@ -372,7 +372,7 @@
 <!-- div:right-panel -->
 #### 视频资源
 - [<u>[B站] Pink老师 JavaScript教程</u>](https://www.bilibili.com/video/BV1Sy4y1C7ha?p=1) &#x2B50;&#x2B50;&#x2B50;
-- [<u></u>]()
+- [<u>【油管】JSON和AJAX入门教程</u>](https://www.youtube.com/watch?v=rJesac0_Ftw&t=709s) &#x2B50;&#x2B50;
 - [<u></u>]()
 - [<u></u>]()
 - [<u></u>]()
