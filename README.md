@@ -385,8 +385,21 @@
 ---
 ### 前端框架
 
-#### CSS框架和组建库
-#### Bootstrap
+### React
+<!-- panels:start -->
+<!-- div:left-panel -->
+### 文章资源
+- [<u>React官方网站</u>](https://reactjs.org/) &#x1F4E6;
+- [<u></u>]()
+- [<u></u>]()
+<!-- div:right-panel -->
+### 视频资源
+- [<u>[B站] React全家桶教程-大力推荐</u>](https://www.bilibili.com/video/BV1wy4y1D7JT) &#x2B50;&#x2B50;&#x2B50;
+- [<u></u>]()
+- [<u></u>]()
+<!-- panels:end -->
+
+### Bootstrap
 - [<u>Bootstrap官方文档</u>](https://getbootstrap.com/docs/5.1/getting-started/introduction/) &#x1F4E6;
 - [<u>[油管] Bootstrap CSS Framework - 完整教程</u>](https://www.youtube.com/watch?v=-qfEOE4vtxE&t=1556s) &#x1F680;&#x1F680; &#x2B50; &#x2B50; &#x2B50;
 - [<u>[B站] 2021最新完整版Bootstrap教程 - 小姐姐主讲</u>](https://www.bilibili.com/video/BV1TU4y1p7zU?p=9) &#x2B50;
